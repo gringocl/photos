@@ -6,8 +6,8 @@ This repo has my customized .bashrc and git-prompt.sh files
 
 I used a few resources for coming up with this
 
-1. [Base code and idea]https://gist.github.com/ricardobeat/5980892
-2. [Title Bar addition and understanding git-prompt]http://ithaca.arpinum.org/2013/01/02/git-prompt.html
+1. [Base code and idea]: https://gist.github.com/ricardobeat/5980892
+2. [Title Bar addition and understanding git-prompt]: http://ithaca.arpinum.org/2013/01/02/git-prompt.html
 
 ![First attempt at it](https://github.com/gringocl/photos/blob/master/2.png?raw=true)
 
@@ -39,7 +39,7 @@ Here is what I believe the symbols mean, some are in the comments of the actual 
 
 ## .bashrc and git-prompt mega rabbit hole
 
-So, my [base code example]https://gist.github.com/ricardobeat/5980892 really screwed me up because it shows some really nice font symbols. If you follow the link and look at [powerline]https://github.com/Lokaltog/powerline I tried and customizing what I allready had with those symbols.  The .bashrc-fonts is my latest customization using those symbols.
+So, my [base code example]https://gist.github.com/ricardobeat/5980892 really screwed me up because it shows some really nice font symbols. If you follow the link and look at [powerline]: https://github.com/Lokaltog/powerline I tried and customizing what I allready had with those symbols.  The .bashrc-fonts is my latest customization using those symbols.
 
 Below is the finalish result
 
